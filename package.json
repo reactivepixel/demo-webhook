@@ -21,6 +21,7 @@
   "homepage": "https://github.com/reactivepixel/demo-webhook#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "uuid4": "^1.0.0"
   }
 }
