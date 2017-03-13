@@ -1,0 +1,22 @@
+{
+  "name": "demohook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactivepixel/demo-webhook.git"
+  },
+  "author": "Chapman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reactivepixel/demo-webhook/issues"
+  },
+  "homepage": "https://github.com/reactivepixel/demo-webhook#readme"
+}
